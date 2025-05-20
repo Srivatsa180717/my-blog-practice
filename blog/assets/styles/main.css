@@ -1,5 +1,6 @@
 /* Subscribe button */
 .subscribe-button {
+<<<<<<< HEAD
   background-color: #007BFF;
   color: white;
   padding: 10px 20px;
@@ -11,3 +12,26 @@
 .subscribe-button:hover {
   background-color: #0056b3;
 }
+=======
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .subscribe-button:hover {
+    background-color: #0056b3;
+  }
+/* Dark theme */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  .dark-mode a {
+    color: #90caf9;
+  }
+    
+>>>>>>> 76dd6f654ca7b6176c3fc38e206b2436a890139c
