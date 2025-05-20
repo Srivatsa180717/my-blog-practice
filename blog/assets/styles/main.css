@@ -11,4 +11,13 @@
   .subscribe-button:hover {
     background-color: #0056b3;
   }
+/* Dark theme */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
   
+  .dark-mode a {
+    color: #90caf9;
+  }
+    
